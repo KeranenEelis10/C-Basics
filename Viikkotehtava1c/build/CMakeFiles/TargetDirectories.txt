@@ -1,0 +1,7 @@
+C:/Work/syksy22/JohdOhjS22/Viikkotehtava1c/build/CMakeFiles/Viikkotehtava1c.dir
+C:/Work/syksy22/JohdOhjS22/Viikkotehtava1c/build/CMakeFiles/edit_cache.dir
+C:/Work/syksy22/JohdOhjS22/Viikkotehtava1c/build/CMakeFiles/rebuild_cache.dir
+C:/Work/syksy22/JohdOhjS22/Viikkotehtava1c/build/CMakeFiles/list_install_components.dir
+C:/Work/syksy22/JohdOhjS22/Viikkotehtava1c/build/CMakeFiles/install.dir
+C:/Work/syksy22/JohdOhjS22/Viikkotehtava1c/build/CMakeFiles/install/local.dir
+C:/Work/syksy22/JohdOhjS22/Viikkotehtava1c/build/CMakeFiles/install/strip.dir

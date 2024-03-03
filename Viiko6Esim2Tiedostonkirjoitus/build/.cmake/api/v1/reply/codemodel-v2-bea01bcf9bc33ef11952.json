@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cd8dbd681db3616be63d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Viiko6Esim2Tiedostonkirjoitus",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Viiko6Esim2Tiedostonkirjoitus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Viiko6Esim2Tiedostonkirjoitus-Debug-4d2dd83a41b5bce7b0eb.json",
+					"name" : "Viiko6Esim2Tiedostonkirjoitus",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Work/syksy22/JohdOhjS22/Viiko6Esim2Tiedostonkirjoitus/build",
+		"source" : "C:/Work/syksy22/JohdOhjS22/Viiko6Esim2Tiedostonkirjoitus"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-40c4aadd37013295b481.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Koeharjoittelua3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Koeharjoittelua3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Koeharjoittelua3-Debug-bc420e66f2af13bc1b5e.json",
+					"name" : "Koeharjoittelua3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Eelis Ker\u00e4nen/OneDrive/Tiedostot/Koeharjoittelua3/build",
+		"source" : "C:/Users/Eelis Ker\u00e4nen/OneDrive/Tiedostot/Koeharjoittelua3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

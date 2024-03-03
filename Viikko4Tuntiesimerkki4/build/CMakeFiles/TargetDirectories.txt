@@ -1,0 +1,7 @@
+C:/Work/syksy22/JohdOhjS22/Viikko4Tuntiesimerkki4/build/CMakeFiles/Viikko4Tuntiesimerkki4.dir
+C:/Work/syksy22/JohdOhjS22/Viikko4Tuntiesimerkki4/build/CMakeFiles/edit_cache.dir
+C:/Work/syksy22/JohdOhjS22/Viikko4Tuntiesimerkki4/build/CMakeFiles/rebuild_cache.dir
+C:/Work/syksy22/JohdOhjS22/Viikko4Tuntiesimerkki4/build/CMakeFiles/list_install_components.dir
+C:/Work/syksy22/JohdOhjS22/Viikko4Tuntiesimerkki4/build/CMakeFiles/install.dir
+C:/Work/syksy22/JohdOhjS22/Viikko4Tuntiesimerkki4/build/CMakeFiles/install/local.dir
+C:/Work/syksy22/JohdOhjS22/Viikko4Tuntiesimerkki4/build/CMakeFiles/install/strip.dir

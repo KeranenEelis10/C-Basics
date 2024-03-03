@@ -1,0 +1,7 @@
+C:/Work/syksy22/JohdOhjS22/Viiko6Esim2Tiedostonkirjoitus/build/CMakeFiles/Viiko6Esim2Tiedostonkirjoitus.dir
+C:/Work/syksy22/JohdOhjS22/Viiko6Esim2Tiedostonkirjoitus/build/CMakeFiles/edit_cache.dir
+C:/Work/syksy22/JohdOhjS22/Viiko6Esim2Tiedostonkirjoitus/build/CMakeFiles/rebuild_cache.dir
+C:/Work/syksy22/JohdOhjS22/Viiko6Esim2Tiedostonkirjoitus/build/CMakeFiles/list_install_components.dir
+C:/Work/syksy22/JohdOhjS22/Viiko6Esim2Tiedostonkirjoitus/build/CMakeFiles/install.dir
+C:/Work/syksy22/JohdOhjS22/Viiko6Esim2Tiedostonkirjoitus/build/CMakeFiles/install/local.dir
+C:/Work/syksy22/JohdOhjS22/Viiko6Esim2Tiedostonkirjoitus/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,7 @@
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Koodailu/Koeharjoittelua/build/CMakeFiles/Koeharjoittelua.dir
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Koodailu/Koeharjoittelua/build/CMakeFiles/edit_cache.dir
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Koodailu/Koeharjoittelua/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Koodailu/Koeharjoittelua/build/CMakeFiles/list_install_components.dir
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Koodailu/Koeharjoittelua/build/CMakeFiles/install.dir
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Koodailu/Koeharjoittelua/build/CMakeFiles/install/local.dir
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Koodailu/Koeharjoittelua/build/CMakeFiles/install/strip.dir

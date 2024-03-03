@@ -1,0 +1,7 @@
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Viikko7Tuntiesimerkki2/build/CMakeFiles/Viikko7Tuntiesimerkki2.dir
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Viikko7Tuntiesimerkki2/build/CMakeFiles/edit_cache.dir
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Viikko7Tuntiesimerkki2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Viikko7Tuntiesimerkki2/build/CMakeFiles/list_install_components.dir
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Viikko7Tuntiesimerkki2/build/CMakeFiles/install.dir
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Viikko7Tuntiesimerkki2/build/CMakeFiles/install/local.dir
+C:/Users/Eelis Keränen/OneDrive/Tiedostot/Viikko7Tuntiesimerkki2/build/CMakeFiles/install/strip.dir

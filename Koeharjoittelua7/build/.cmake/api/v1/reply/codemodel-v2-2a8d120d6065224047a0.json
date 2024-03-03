@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c2cc449132ec57e03c4d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Koeharjoittelua7",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Koeharjoittelua7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Koeharjoittelua7-Debug-3538bb2c7ed2dec666b0.json",
+					"name" : "Koeharjoittelua7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Eelis Ker\u00e4nen/OneDrive/Tiedostot/Koodailu/syksy22/JohdOhjS22/Koeharjoittelua7/build",
+		"source" : "C:/Users/Eelis Ker\u00e4nen/OneDrive/Tiedostot/Koodailu/syksy22/JohdOhjS22/Koeharjoittelua7"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
